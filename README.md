@@ -35,14 +35,14 @@ Due to the large size of the dataset (~4GB), it is hosted externally.
 
 🔗 **Download Dataset:**
 
-- **Baidu Pan**: [datasets-YOLO-Based_Corner_Extraction_Methods_for_Document_Image_Rectification.zip](https://pan.baidu.com/s/1Unr6m97wjuNBZnSIftOviQ?pwd=417s)  
+- **Baidu Pan (百度网盘)**: [datasets-YOLO-Based_Corner_Extraction_Methods_for_Document_Image_Rectification.zip](https://pan.baidu.com/s/1Unr6m97wjuNBZnSIftOviQ?pwd=417s)  
   Extraction code: `417s`
 
 - **Google Drive**: [datasets-YOLO-Based_Corner_Extraction_Methods_for_Document_Image_Rectification.zip](https://drive.google.com/file/d/1aSrWut3HGIgrTgvLb0EDoFmpwH2avpdI/view?usp=sharing)
 
 **Contents:**
 
-- `images/`: Document images (scanned or photographed)
+- `images/`: Document images
 - `pose-labels/`: Corner labels
 - `segment-labels/`: Polygon labels
 
