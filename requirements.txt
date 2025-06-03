@@ -1,0 +1,13 @@
+# Core Dependencies
+torch>=1.10.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+Pillow>=8.0.0
+
+# YOLO Dependencies
+ultralytics>=11.0.0  # YOLOv11
+tqdm>=4.62.0
+
+# Data Processing and Visualization
+matplotlib>=3.4.0
+pandas>=1.3.0
